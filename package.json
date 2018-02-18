@@ -1,0 +1,11 @@
+{
+  "name": "oakland-track-club",
+  "version": "0.0.0",
+  "description": "A fine website for all that is the Oakland Track Club",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Chris Thoburn (@runspired)",
+  "license": "All Rights Reserved. Logos and graphics property of Kevin Chaves and the Oakland Track Club."
+}
